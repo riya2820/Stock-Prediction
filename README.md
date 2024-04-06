@@ -5,10 +5,11 @@ This project aims to predict stock price movements. Uses two distinct machine le
 
 # Features
 
+Data Preprocessing: Includes normalization and transformation of stock price data to optimize model performance.
+
 Random Forest Classifier: Utilizes a combination of decision trees to predict the stock price direction based on historical data features.
 RNN with LSTM: Employs a Deep Learning approach, and a feedback loop, to predict stock prices
 
-Data Preprocessing: Includes normalization and transformation of stock price data to optimize model performance.
 Performance Evaluation: Uses accuracy, precision, recall, and F1-score to evaluate and compare model predictions.
 Requirements
 
